@@ -1,5 +1,14 @@
 # flutter_konverter_suhu
 
+* Nama =  Safira Istifarini
+* Kelas = TI 3H
+* NIm = 2041720229
+* Absen = 17
+
+* Hasil =
+
+<img src = '.images/suhu.png' >
+
 A new Flutter project.
 
 ## Getting Started
