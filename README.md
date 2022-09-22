@@ -7,7 +7,7 @@
 
 * Hasil =
 
-<img src = '.images/suhu.png' >
+* <img src = '.images/suhu.png' >
 
 A new Flutter project.
 
